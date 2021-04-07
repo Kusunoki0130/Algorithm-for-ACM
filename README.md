@@ -5,7 +5,7 @@ The repository is used to sort out Algorithm templates learned in University
 
 新增President data structure（可持久化数据结构）
 
-新增可持久化线段树模板
+增加可持久化线段树模板
 
 2020/4/5
 
