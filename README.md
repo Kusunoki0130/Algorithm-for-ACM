@@ -5,6 +5,8 @@ The repository is used to sort out Algorithm templates learned in University
 
 增加 Can you answer these queries V（线段树求区间端点不固定的最大连续子段和）
 
+增加线段树动态开点模板、线段树扫面线求矩形面积和及周长和
+
 2020/4/4
 
 增加 Can you answer these queries I~IV
