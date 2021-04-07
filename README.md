@@ -1,6 +1,12 @@
 # Algorithm-for-ACM
 The repository is used to sort out Algorithm templates learned in University
 
+2020/4/7
+
+新增President data structure（可持久化数据结构）
+
+增加可持久化线段树模板
+
 2020/4/5
 
 增加 Can you answer these queries V（线段树求区间端点不固定的最大连续子段和）
