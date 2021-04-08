@@ -1,7 +1,7 @@
 # Algorithm-for-ACM
 The repository is used to sort out Algorithm templates learned in University
 
-2020/4/7
+2020/4/8
 
 补完 Segment tree（线段树）部分说明文档
 
