@@ -1,13 +1,17 @@
 # Algorithm-for-ACM
 The repository is used to sort out Algorithm templates learned in University
 
+2020/4/8
+
+补完 Segment tree（线段树）部分说明文档
+
 2020/4/7
 
 新增 President data structure（可持久化数据结构）
 
 增加可持久化线段树模板
 
-增加Segment tree（线段树）部分说明文档
+增加 Segment tree（线段树）部分说明文档（未完成）
 
 2020/4/5
 
